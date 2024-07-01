@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Gray Day","image":"https://pechangaarenasd.com/wp-content/uploads/PASD-Suicideboys-750x400-2.jpg","date":"2024-07-01","description":"Dope event","id":"9ec9da56-b556-406b-9c07-7b90c96c3d68"}],"users":[{"email":"test@test.com","password":"$2a$12$sRxCdlde2co2ySKti3nqfONtLGPb2Lofc6lPLQZvD4oedHPRqIjS6","id":"ba585b9a-7496-4054-bbfd-674e1e9df2b4"},{"email":"test2@test.com","password":"$2a$12$DJ4zNuZFVlm2nyp16wkwgeS70dPn2boftwJT7dxEXl4Z1lVHD.sPi","id":"abe8ecf2-f371-4ae6-be64-333c1f699e11"},{"email":"test3@test.com","password":"$2a$12$lTcStrQZjD/8F3Dh0nSyaeFqpxdq1eq2ldHYyg8UHHj9IeyyZ90ai","id":"1cad6e11-ae46-4cc6-9a92-8b73e4f82ac9"},{"email":"test6@test.com","password":"$2a$12$t72xVjZ1xVjJB9eo0d1zcuMQNkqFBlg85N5EziFyxYRxQU0qmmxGi","id":"053b197d-1aee-4c9d-8200-eb5ef8223efa"},{"email":"al.kaleshi00@gmail.com","password":"$2a$12$T0GYyWfW4.iqg9p2iFkOeO206B.4EeoKzpnEP..AOgF3L/nxYSc2u","id":"645fadb5-370e-414f-91bd-61f3ee9b2207"}]}
