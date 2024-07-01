@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Grey Day!","image":"https://www.bridgestonearena.com/assets/img/MicrosoftTeams-image-25-2d2beaee90.png","date":"2024-06-28","description":"Suicide Boys","id":"83c86662-c8d1-40b5-8083-d8aec42b082a"},{"title":"Rolling Loud","image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Rolling_Loud_Logo.png","date":"2024-06-28","description":"Cool festival","id":"1034d554-c560-499d-be73-a2be686e54ec"}]}
